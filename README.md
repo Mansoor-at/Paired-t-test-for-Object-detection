@@ -4,7 +4,7 @@ The model for which we provide the code is an object detection model. To the bes
 We have added the results in our paper ""A semi-supervised teacher-student framework for surgical tool detection and localization". Please refer here for more details. 
 
 ## Results
-![results](Statistical Test/image/Mansoor_CAI22.png)
+![results](Mansoor_CAI22.png)
 
 ### Requirements 
 
