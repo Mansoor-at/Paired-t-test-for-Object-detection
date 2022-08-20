@@ -1,7 +1,7 @@
 # Paired-t-test-for-Object-detection
-In this repository, we provide code to perform paired t-test to establish deep learning model's statistical significance. <br />
+<p align="justify"> In this repository, we provide code to perform paired t-test to establish deep learning model's statistical significance. <br />
 The model for which we provide the code is an object detection model. To the best of my knowledge, there is no other repo which provides this kind of code.<br /> 
-We have added the results in our paper **"A semi-supervised teacher-student framework for surgical tool detection and localization"**. Please refer here for more details. <br />
+We have added the results in our paper **"A semi-supervised teacher-student framework for surgical tool detection and localization"**. Please refer here for more details. <br /> </p>
 
 ## Results
 ![results](Mansoor_CAI22.png)
