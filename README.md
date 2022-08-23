@@ -24,6 +24,17 @@ Step 1: Run the file "prepare_data.py" to save numpy arrays for all the models.
 Step 2: Run "Paired_test.py" to perform t-test. This will compute p-values and save box-plot. 
    ```
 ## Citing semi-supervised tool detection
+```sh
+@misc{ali2022semisupervised,
+      title={A semi-supervised Teacher-Student framework for surgical tool detection and localization}, 
+      author={Mansoor Ali and Gilberto Ochoa-Ruiz and Sharib Ali},
+      year={2022},
+      eprint={2208.09926},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+                                  
+ ```
 
 
 ## FAQ
